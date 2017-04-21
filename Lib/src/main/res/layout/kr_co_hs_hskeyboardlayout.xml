@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_alignParentBottom="true">
+
+
+    <kr.co.hs.hangulkeyboard.HsKeyboardView
+        android:id="@+id/KeyboardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:keyBackground="@drawable/hskeyboard_dark_key_background"
+        android:keyPreviewLayout="@layout/kr_co_hs_hskeyboardpreview"
+        android:layout_marginTop="100dp"
+        />
+
+</LinearLayout>

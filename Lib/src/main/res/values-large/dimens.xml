@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="HsKeyboardBase_keyNormalHeight">52dip</dimen>
+    <dimen name="HsKeyboardBase_keySmallHeight">38dip</dimen>
+    <dimen name="HsKeyboardBase_keyLargeHeight">62dip</dimen>
+    <dimen name="HsKeyboardBase_KeyTextSize">24sp</dimen>
+</resources>

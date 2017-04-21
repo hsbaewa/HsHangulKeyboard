@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="keyType">
+        <attr name="key_type_function" format="boolean"/>
+        <attr name="key_type_action" format="boolean"/>
+        <attr name="key_type_feedback" format="boolean"/>
+    </declare-styleable>
+</resources>

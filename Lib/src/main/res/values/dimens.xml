@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="key_height">50dip</dimen>
+
+    <dimen name="HsKeyboardDark_RadiusKeyCorner">5dp</dimen>
+    <dimen name="HsKeyboardBase_keyNormalHeight">48dp</dimen>
+    <dimen name="HsKeyboardBase_keySmallHeight">32dp</dimen>
+    <dimen name="HsKeyboardBase_keyLargeHeight">54dp</dimen>
+    <dimen name="HsKeyboardBase_KeyTextSize">21sp</dimen>
+</resources>
